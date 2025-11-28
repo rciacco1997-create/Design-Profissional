@@ -7,9 +7,13 @@ Esta disciplina atua como a ponte entre o conhecimento técnico e a realidade do
 # 🎯 Pilares de Aprendizado #
 
 Pilar	Descrição e Ferramentas
+
 📢 Personal Branding	Estratégias de posicionamento no LinkedIn e construção de autoridade digital.
+
 📄 Documentação Técnica	Criação de currículos de alta legibilidade (ATS-friendly) utilizando LaTeX.
+
 💼 Gestão de Carreira	Planejamento de trajetória, definição de metas e networking estratégico.
+
 🛠️ Git & Portfólio	Uso profissional do GitHub não apenas para código, mas como vitrine de projetos.
 
 # 🚀 Entregas e Artefatos (1º Semestre) #
